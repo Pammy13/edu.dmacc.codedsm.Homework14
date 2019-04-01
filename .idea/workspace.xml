@@ -9,12 +9,15 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/FullPackage.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/PersonAnimal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/QuickPackage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/DogGroomingShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/FullPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/PersonAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/QuickPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/Runner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab10/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/Lab10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/encodings.xml" afterDir="false" />
@@ -28,11 +31,15 @@
       <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/src/HW142question/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework12/src/Blackjack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/DogGroomingShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/FullPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/QuickPackage.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework14/edu/dmacc/code/dsm/Homework14/Runner.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework4" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,39 +54,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="17">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#1611#1612#0" expanded="true" />
+                <element signature="e#1679#1680#0" expanded="true" />
+                <element signature="e#1745#1746#0" expanded="true" />
+                <element signature="e#1815#1816#0" expanded="true" />
+                <element signature="e#1877#1878#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="150">
+              <caret line="13" column="38" selection-start-line="5" selection-end-line="20" />
               <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,19 +95,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="221">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
                 <element signature="e#436#437#0" expanded="true" />
                 <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#686#687#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
                 <element signature="e#780#781#0" expanded="true" />
                 <element signature="e#810#811#0" expanded="true" />
               </folding>
@@ -111,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
@@ -127,11 +138,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="26" column="43" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="32" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,18 +171,18 @@
         <option value="$PROJECT_DIR$/src/DogGroomer.java" />
         <option value="$PROJECT_DIR$/src/Runner.java" />
         <option value="$PROJECT_DIR$/src/DogGroomingShop.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" />
-        <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/Runner.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="520" />
+    <option name="x" value="307" />
     <option name="y" value="1" />
-    <option name="width" value="1409" />
+    <option name="width" value="1623" />
     <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -209,10 +220,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554065083198" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554082963996" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework14twice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -262,15 +274,15 @@
       <option name="presentableId" value="Default" />
       <updated>1553988843513</updated>
       <workItem from="1553988846281" duration="9893000" />
-      <workItem from="1554052595302" duration="12240000" />
+      <workItem from="1554052595302" duration="26491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22133000" />
+    <option name="totallyTimeSpent" value="36384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="347" y="1" width="939" height="685" extended-state="0" />
+    <frame x="205" y="1" width="1082" height="685" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24671917" />
@@ -339,10 +351,35 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
@@ -356,68 +393,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="17">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="26" column="43" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/code/dsm/Homework14/FullPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="38" selection-start-line="5" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

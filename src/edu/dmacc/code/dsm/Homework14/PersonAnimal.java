@@ -10,6 +10,10 @@ public class PersonAnimal {
    {
             this.animalName = animalName;
         }
+public PersonAnimal(String personName, String animalName){
+        personName = personName;
+        animalName = animalName;
+}
 
     @Override
     public String toString() {
